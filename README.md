@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" width="400" src="https://media1.tenor.com/m/Mtj8TATAWPIAAAAC/baboon-laptop.gif" />
+  <img data-importer="image" width="350" src="https://media1.tenor.com/m/Mtj8TATAWPIAAAAC/baboon-laptop.gif" />
 </div>
 
 ###
