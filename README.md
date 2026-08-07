@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="300" src="/gif/giphy.gif" />
+  <img data-importer="image" height="300" src="https://media1.tenor.com/m/Mtj8TATAWPIAAAAC/baboon-laptop.gif" />
 </div>
 
 ###
